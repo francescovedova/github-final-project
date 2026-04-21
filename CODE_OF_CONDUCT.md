@@ -1,7 +1,7 @@
 # Codice di Condotta
 
 ## Il nostro Impegno
-In quanto collaboratori e responsabili, ci impegniamo a rendere la partecipazione al nostro progetto e alla nostra comunità un'esperienza priva di molestie per tutti.
+In quanto collaboratori e responsabili, ci impegniamo a rendere la partecipazione al nostro progetto e alla nostra comunità un'esperienza priva di molestie per tutti. 
 
 ## I nostri Standard
 Esempi di comportamenti che contribuiscono a creare un ambiente positivo includono l'uso di un linguaggio accogliente e inclusivo e l'essere rispettosi dei diversi punti di vista.
