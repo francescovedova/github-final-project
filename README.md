@@ -1,5 +1,4 @@
-# progetto_francesco
-Progetto di Francesc. Prima prova
+# github-final-project
 # Progetto Calcolatore Interesse Semplice
 
 Questo repository contiene uno script Bash creato per calcolare l'interesse semplice. 
